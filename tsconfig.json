@@ -1,0 +1,13 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "es2020",
+    "module": "es2020",
+    "baseUrl": "./",
+    "outDir": "./dist",
+    "importHelpers": true,
+    "noImplicitOverride": true,
+    "lib": ["ES2019", "dom"]
+  }
+}
